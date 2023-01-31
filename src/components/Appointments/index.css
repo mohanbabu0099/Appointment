@@ -1,0 +1,31 @@
+/* Write your CSS here */
+body {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  height: 100vh;
+}
+
+.cardContainer {
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+.addbutton {
+  background-color: #8b5cf6;
+  color: #ffffff;
+}
+
+.topImage {
+  margin-left: 50px;
+}
+.starredButton {
+  border: 1px solid;
+}
+
+.name {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
